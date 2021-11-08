@@ -1,0 +1,9 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^factura\.solucionesrp\.com\.mx$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.factura\.solucionesrp\.com\.mx$
+RewriteRule ^/?$ "https\:\/\/factura\.solucionesrp\.com\.mx\/" [R=301,L]

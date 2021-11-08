@@ -1,0 +1,51 @@
+[30-Apr-2021 22:16:17 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:25 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:34 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:42 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:43 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:44 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:44 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:45 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:45 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:46 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:46 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:46 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:16:46 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:14 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:16 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:19 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:20 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:29 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:33 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:36 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:42 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:44 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:18:53 UTC] PHP Parse error:  syntax error, unexpected '1.' (T_DNUMBER), expecting ',' or ';' in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 49
+[30-Apr-2021 22:41:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 74
+[02-May-2021 21:18:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:18:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:19:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 22
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 23
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 32
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 33
+[02-May-2021 21:19:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:21:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:21:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:21:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 22
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 23
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 32
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 33
+[02-May-2021 21:21:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:22:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:22:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:23:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 22
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 23
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 32
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 33
+[02-May-2021 21:23:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/solucion/public_html/factura/ajax/buscar_pagos.php on line 11
